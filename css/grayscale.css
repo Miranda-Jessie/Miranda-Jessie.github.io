@@ -146,7 +146,7 @@
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
-  border: 25;
+  border: 0;
 }
 
 .btn-primary {
@@ -296,7 +296,7 @@ a:focus, a:hover {
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: black !important;
 }
 
 footer {
