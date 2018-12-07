@@ -6,7 +6,7 @@
 
 #mainNav {
   min-height: 56px;
-  background-color: black;
+  background-color: white;
 }
 
 #mainNav .navbar-toggler {
@@ -146,7 +146,7 @@
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: .15rem;
-  border: 0;
+  border: 25;
 }
 
 .btn-primary {
